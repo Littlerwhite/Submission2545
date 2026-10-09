@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+build/
+checkpoints/
+logs/
+results/
+results_*/
+*.pt
+*.npy
+*.log
